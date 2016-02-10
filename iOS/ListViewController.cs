@@ -1,6 +1,8 @@
 ﻿using System;
 using Core;	
 using UIKit;
+using System.Linq;
+using Foundation;
 
 namespace MobileTest.iOS
 {
@@ -16,8 +18,7 @@ namespace MobileTest.iOS
 			base.ViewDidLoad ();
 
 			// Perform any additional setup after loading the view, typically from a nib.
-			var domain = new Domain();
-			var items = domain.GetItems ();
+
 
 		}
 
