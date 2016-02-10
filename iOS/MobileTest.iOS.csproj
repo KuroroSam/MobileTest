@@ -83,6 +83,10 @@
       <Project>{904D0FD9-5324-4215-A19A-0CDF886E9515}</Project>
       <Name>MobileTest</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{26333181-AB7A-4601-8897-E150F299DAD3}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
