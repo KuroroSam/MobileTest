@@ -13,9 +13,11 @@ For the list screen
 - display collection of uploaded photo. 
 
 For the upload screen,
-- upload a photo through drawing api(You don't need to implement it. You can find it in Core Porject > Domain > UpdateItem). 
+- upload a photo through drawing api (You don't need to implement it. You can find it in Core Porject > Domain > UpdateItem). 
 - The nature :smiling_imp: of this api will randomly block you serveral second so your UI should consider to embrace or avoid concurrency.
 - pick a last taken photo from device library
+ 
+![alt tag](https://cloud.githubusercontent.com/assets/1186623/13080516/f47235bc-d503-11e5-8b8f-a667ffe5dbff.png)
 
 You will be evaluated on: 
 - technical capability of the code
