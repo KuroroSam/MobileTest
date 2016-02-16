@@ -13,7 +13,7 @@ For the list screen
 - display collection of uploaded photo. 
 
 For the upload screen,
-- upload a photo through drawing api. The nature :smiling_imp: of this api will randomly block you serveral second so your UI should consider to embrace or avoid concurrency.
+- upload a photo through drawing api(In Core Porject > Domain > UpdateItem). The nature :smiling_imp: of this api will randomly block you serveral second so your UI should consider to embrace or avoid concurrency.
 - pick a last taken photo from device library
 
 You will be evaluated on: 
