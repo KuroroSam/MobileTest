@@ -9,6 +9,7 @@ This simple application has 2 screen, which are list screen and upload screen.
 ![alt tag](https://cloud.githubusercontent.com/assets/1186623/13046748/b4ad69a4-d415-11e5-9ba9-c7c30780427b.png)
 
 The basic functionality you need to implement are:
+
 For the list screen
 - display collection of uploaded photo. 
 
