@@ -2,6 +2,9 @@
 
 Clone it! Don't fork it or other people can see your implementation.
 
+This is assignment is base on Xamarin
+https://www.xamarin.com
+
 Please refer the iOS project, there are bare bone implementation so you can verify your enviroment is workable for further development. 
 
 This simple application has 2 screen, which are list screen and upload screen.
@@ -26,4 +29,7 @@ You will be evaluated on:
 - UI presentation
 - other design decisions
 
-You are expceted to implement this user interface for iOS, android or window mobile. We recommend you to focus on your favourite platform but you gain a bouns if you can make it works for both.  
+You are expceted to implement this user interface for iOS, android or window mobile. We recommend you to focus on your favourite platform but you gain a bouns if you can make it works for both.
+
+Hints:The ultimate solution of this assignment is ReactiveUI
+http://reactiveui.net/
