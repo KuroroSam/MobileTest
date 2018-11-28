@@ -2,7 +2,7 @@
 
 Clone it! Don't fork it or other people can see your implementation.
 
-This is assignment is base on Xamarin
+This is an assignment based on Xamarin
 https://www.xamarin.com
 
 Please refer the iOS project, there are bare bone implementation so you can verify your enviroment is workable for further development. 
